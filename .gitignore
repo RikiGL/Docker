@@ -1,0 +1,6 @@
+node_modules/
+.evershop/
+media/
+public/
+.env
+*.log
